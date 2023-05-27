@@ -21,4 +21,4 @@
 
 10. Click import and click the button import and add the "db_shop file"
 
-11. New tab and copy paste http://localhost/wesbsite master websys
+11. New tab and copy " http://localhost/wesbsite master websys " and paste
